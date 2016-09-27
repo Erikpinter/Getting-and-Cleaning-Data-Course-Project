@@ -19,7 +19,7 @@ This repository ("Erikpinter/Getting-and-Cleaning-Data-Course-Project") includes
 This documentation.
 
 ### run_analysis.R
-The **'run_analysis.R' script** performs the following tansformations to the original UCI HAR dataset - 
+The **'run_analysis.R' script** performs the following tansformations to the original UCI HAR dataset:
 
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -27,7 +27,10 @@ The **'run_analysis.R' script** performs the following tansformations to the ori
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-**NOTE:** The 'UCI HAR Dataset' directory is supposed to be in the current working directory. The run_analysis.R script is well documented for more detailed information.
+**NOTE:** 
+* For download instructions for the 'UCI HAR Dataset' see **CodeBook.md**.
+* The 'UCI HAR Dataset' directory has to be in the current working directory. 
+* The run_analysis.R script is well documented for more detailed information.
 
 ### tidy2.txt
 The tidy2.txt dataset is the result of running the 'run_analysis.R' script.
