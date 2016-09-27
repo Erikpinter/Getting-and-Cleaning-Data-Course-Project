@@ -28,7 +28,8 @@ The following transformations have been applied to the original dataset and are 
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-**NOTE:** The run_analysis.R script is well documented for more detailed information.
+**NOTE:** 
+* The run_analysis.R script is well documented for more detailed information.
 
 **The resulting tidy dataset can be found in 'tidy2.txt'.**
 
