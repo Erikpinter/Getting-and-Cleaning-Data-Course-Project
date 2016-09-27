@@ -27,8 +27,7 @@ The **'run_analysis.R' script** performs the following tansformations to the ori
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-NOTE: The 'UCI HAR Dataset' directory is supposed to be in the current working directory.
-The R-Script is well documented.
+**NOTE:** The 'UCI HAR Dataset' directory is supposed to be in the current working directory. The run_analysis.R script is well documented for more detailed information.
 
 ### tidy2.txt
 The tidy2.txt dataset is the result of running the 'run_analysis.R' script.
